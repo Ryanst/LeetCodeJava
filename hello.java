@@ -1,1 +1,1 @@
-aa931ccc-45a7-11e5-afb2-2cf0ee26d83e
+System.out.println('Hello world')
